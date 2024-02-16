@@ -1,0 +1,12 @@
+"Github Assignment create a Github Repository for Solve Project 7: Create a Repository, Clone repository to a local path on their computer, Modify the Repository, Commit Changes to the Repository" 
+
+
+GitHub Assignment: Create a GitHub repository for Solve Project 7
+Assignment Description: Now that you understand how to use GitHub, create a repository for Solve Project 7. The repository should include your file for Solve Project 7. The file will be under the master branch. 
+Students will be able to:
+●	Create a repository 
+●	Clone repository to a local path on their computer
+●	Modify the repository 
+●	Commit changes to the repository 
+
+
